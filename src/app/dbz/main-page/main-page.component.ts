@@ -27,3 +27,6 @@ export class MainPageComponent {
     this.personajes.push(argumento);
   }
 }
+
+
+// Usando F5 podemos iniciar los run debug en visual code, ademas podemos realizar un point o marcado en la linea que deseamos realizar que sucede en esa line ade codigo que variables, ETC.
