@@ -5,5 +5,5 @@ import { Component} from '@angular/core';
   templateUrl: './personajes.component.html'
 })
 export class PersonajesComponent {
-
+  personajes:any[] = [];
 }
